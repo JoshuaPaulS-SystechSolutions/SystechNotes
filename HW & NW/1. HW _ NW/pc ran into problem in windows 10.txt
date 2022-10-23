@@ -1,0 +1,23 @@
+boot with cd
+
+repair your computer 
+
+open command prompt
+
+change to drive C:
+
+cd \windows\systemc32\config
+
+md backup
+
+copy *.* backup
+
+all
+
+cd regback
+
+copy *.* ..   press enter
+
+all
+
+exit
